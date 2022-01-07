@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lottonumbers/static/css/main.22774e56.css",
+    "main.js": "/lottonumbers/static/js/main.b63e5d63.js",
+    "static/media/eurojackpot2.png": "/lottonumbers/static/media/eurojackpot2.b074137a00613414d380.png",
+    "static/media/lotto52.png": "/lottonumbers/static/media/lotto52.474061a2ae79f3f71dbf.png",
+    "static/media/hatoslotto2.jpg": "/lottonumbers/static/media/hatoslotto2.34d90235170b6656051c.jpg",
+    "static/media/lottologo.png": "/lottonumbers/static/media/lottologo.19f5a6bb44c0bacb254c.png",
+    "static/media/homelogo.png": "/lottonumbers/static/media/homelogo.8b8837b370b9b5208290.png",
+    "static/media/lotto5.jpg": "/lottonumbers/static/media/lotto5.da4e38285f6b98121eaa.jpg",
+    "static/media/hatoslotto1.jpg": "/lottonumbers/static/media/hatoslotto1.6b509fbf99f75f4f4bc7.jpg",
+    "static/media/eurojackpot1.jpg": "/lottonumbers/static/media/eurojackpot1.8e121637ad6d72d4a581.jpg",
+    "static/media/skandinav1.jpg": "/lottonumbers/static/media/skandinav1.a5e5eef093bf846ca658.jpg",
+    "static/media/luxor1.jpg": "/lottonumbers/static/media/luxor1.fcec9f733a75ad854a58.jpg",
+    "static/media/joker1.png": "/lottonumbers/static/media/joker1.189e5c0ddc7a6da4b783.png",
+    "index.html": "/lottonumbers/index.html",
+    "main.22774e56.css.map": "/lottonumbers/static/css/main.22774e56.css.map",
+    "main.b63e5d63.js.map": "/lottonumbers/static/js/main.b63e5d63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22774e56.css",
+    "static/js/main.b63e5d63.js"
+  ]
+}
