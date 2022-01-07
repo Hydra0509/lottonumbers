@@ -23,7 +23,7 @@ export default function Otoslotto() {
    
     return (
         <>
-        <Link to="/home"><img className="homelogo" src={homelogo} /></Link>
+        <Link to="/"><img className="homelogo" src={homelogo} /></Link>
        <div className="lotto5os"><img className="otospic" src={lotto5os} /></div> 
     <div className="otos">
     <h1>Ötös lottó nyerőszámok:</h1>

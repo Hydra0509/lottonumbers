@@ -25,7 +25,7 @@ export default function Hatoslotto() {
 
     return (
         <>
-        <Link to="/home"><img className="homelogo" src={homelogo} /></Link>
+        <Link to="/"><img className="homelogo" src={homelogo} /></Link>
         <div className="lotto6os"><img className="hatospic" src={hatoslotto2} /></div> 
     <div className="numbers">
     <h1>A te számaid:</h1>

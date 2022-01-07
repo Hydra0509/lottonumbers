@@ -28,7 +28,7 @@ export default function Eurojackpot() {
 
     return (
         <>
-        <Link to="/home"><img className="homelogo" src={homelogo} /></Link>
+        <Link to="/"><img className="homelogo" src={homelogo} /></Link>
     <div className="lotto5os"><img className="otospic" src={eurojackpot2} /></div> 
     <div className="numbers">
     <h1>A mező:</h1>
