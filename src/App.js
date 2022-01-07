@@ -11,7 +11,7 @@ function App() {
     <>
     <Router>
         <Routes>
-          <Route exact path="/" element={ <Home />} ></Route>
+          <Route exact path="/home" element={ <Home />} ></Route>
           <Route exact path="/otoslotto" element={ <Otoslotto />} ></Route>
           <Route exact path="/eurojackpot" element={ <Eurojackpot />} ></Route>
           <Route exact path="/hatoslotto" element={ <Hatoslotto />} ></Route>
