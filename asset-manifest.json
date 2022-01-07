@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lottonumbers/static/css/main.22774e56.css",
-    "main.js": "/lottonumbers/static/js/main.44bcf44e.js",
+    "main.js": "/lottonumbers/static/js/main.389c327b.js",
     "static/media/eurojackpot2.png": "/lottonumbers/static/media/eurojackpot2.b074137a00613414d380.png",
     "static/media/lotto52.png": "/lottonumbers/static/media/lotto52.474061a2ae79f3f71dbf.png",
     "static/media/hatoslotto2.jpg": "/lottonumbers/static/media/hatoslotto2.34d90235170b6656051c.jpg",
@@ -15,10 +15,10 @@
     "static/media/joker1.png": "/lottonumbers/static/media/joker1.189e5c0ddc7a6da4b783.png",
     "index.html": "/lottonumbers/index.html",
     "main.22774e56.css.map": "/lottonumbers/static/css/main.22774e56.css.map",
-    "main.44bcf44e.js.map": "/lottonumbers/static/js/main.44bcf44e.js.map"
+    "main.389c327b.js.map": "/lottonumbers/static/js/main.389c327b.js.map"
   },
   "entrypoints": [
     "static/css/main.22774e56.css",
-    "static/js/main.44bcf44e.js"
+    "static/js/main.389c327b.js"
   ]
 }
