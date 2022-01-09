@@ -25,17 +25,16 @@ export default function Otoslotto() {
         <>
         <Link to="/"><img className="homelogo" src={homelogo} /></Link>
        <div className="lotto5os"><img className="otospic" src={lotto5os} /></div> 
-    <div className="otos">
-    <h1>Ötös lottó nyerőszámok:</h1>
-    </div>
     <div className="numbers">
-    <h1>{randomNumberOne}</h1>
-    <h1>{randomNumberTwo}</h1>
-    <h1>{randomNumberThree}</h1>
-    <h1>{randomNumberFour}</h1>
-    <h1>{randomNumberFive}</h1>
+    <h1 className="number">{randomNumberOne}</h1>
+    <h1 className="number">{randomNumberTwo}</h1>
+    <h1 className="number">{randomNumberThree}</h1>
+    <h1 className="number">{randomNumberFour}</h1>
+    <h1 className="number">{randomNumberFive}</h1>
     </div>
-    <div className="button"><button onClick={() => Numbers()}>Get your numbers</button></div>
+    <div className="button"><button className="button" onClick={() => Numbers()}>Get numbers</button></div>
+    <br></br>
+    <div className="button"><a className="link" href="https://bet.szerencsejatek.hu/jatekok/otoslotto" target="_blank"><button className="button">Megjátszom</button></a></div>
         </>
     )
 }

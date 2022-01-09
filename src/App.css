@@ -4,7 +4,10 @@
   height: 100px;
 }
 
-
+.number {
+  font-size: 80px;
+  color:rgb(16, 206, 54)
+}
 .otos {
   display:flex;
   flex-wrap: wrap;
@@ -38,13 +41,23 @@
   width:450px;
 }
 
-
+.link {
+  text-decoration: none;
+}
 
 .button {
   display:flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50px;
+  border-radius: 20px;
+  font-size: 25px; 
+  cursor: pointer;
+}
+
+.button:hover {
+  font-size:30px;
+  transition: 0.5s;
+
 }
 
 .otoslotto1 {
